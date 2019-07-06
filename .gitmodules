@@ -10,3 +10,6 @@
 [submodule "laxio-protocol"]
 	path = laxio-protocol
 	url = git@github.com:Laxio/LaxioProtocol.git
+[submodule "laxio-api"]
+	path = laxio-api
+	url = git@github.com:Laxio/LaxioAPI.git
