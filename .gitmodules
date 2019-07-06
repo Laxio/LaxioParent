@@ -1,0 +1,12 @@
+[submodule "laxio-ignition"]
+	path = laxio-ignition
+	url = git@github.com:Laxio/LaxioIgnition.git
+[submodule "laxio-server"]
+	path = laxio-server
+	url = git@github.com:Laxio/LaxioServer.git
+[submodule "laxio-client"]
+	path = laxio-client
+	url = git@github.com:Laxio/LaxioClient.git
+[submodule "laxio-protocol"]
+	path = laxio-protocol
+	url = git@github.com:Laxio/LaxioProtocol.git
